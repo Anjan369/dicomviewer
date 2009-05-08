@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary The change log of this project.
 #labels Featured,Phase-Design
 
 = Change logs =
