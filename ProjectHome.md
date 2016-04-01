@@ -1,0 +1,1 @@
+This is a personal DICOM files Viewer for MS Windows with simple GUI interface. This program is based on DCMTK Library. The development tool is Microsoft Visual Studio 2005.

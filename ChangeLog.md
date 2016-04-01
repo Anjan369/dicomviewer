@@ -1,0 +1,5 @@
+# Change logs #
+
+  * 2009-3-31 - First Release.
+  * 2009-4-14 - Fix an incorrect image shift when zoom > 100% and width < viewer width.
+  * 2009-5-8 - Remove the .ncb and .aps files from Source Code.
